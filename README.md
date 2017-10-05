@@ -1,3 +1,3 @@
 # Autor Bartosz Nowaczewski
-# Opis projektu
+## Opis projektu
 Krotkie podsumowanie projektu
