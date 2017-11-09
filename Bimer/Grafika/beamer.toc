@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{1.Og\IeC {\'o}lne informacje}{3}{0}{1}
+\beamer@sectionintoc {2}{2.Podzia\IeC {\l }}{7}{0}{2}
+\beamer@sectionintoc {3}{3.Historia}{11}{0}{3}
+\beamer@sectionintoc {4}{4.Przypisy}{14}{0}{4}
+\beamer@sectionintoc {5}{5.Bibliografia}{15}{0}{5}
